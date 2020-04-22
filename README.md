@@ -13,7 +13,7 @@
   Author         = {Pavlakos, Georgios and Zhou, Xiaowei and Derpanis, Konstantinos G and Daniilidis, Kostas},
   Booktitle      = {Computer Vision and Pattern Recognition (CVPR)},
   Year           = {2017}
-}
+};
 </code></pre>
 </details>|
 | tome2017lifting|  CVPR17 | 113.0 | - | [conf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tome_Lifting_From_the_CVPR_2017_paper.pdf) [code](https://github.com/DenisTome/Lifting-from-the-Deep-release)|
