@@ -125,6 +125,49 @@ _Yuanlu Xu, Song-Chun Zhu, Tony Tung_
 
 [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Xu_DenseRaC_Joint_3D_Pose_and_Shape_Estimation_by_Dense_Render-and-Compare_ICCV_2019_paper.html)
 
+##### BSFMV
+**On Boosting Single-Frame 3D Human Pose Estimation via Monocular Videos**
+
+_Zhi Li, Xuan Wang, Fei Wang, Peilin Jiang_
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_On_Boosting_Single-Frame_3D_Human_Pose_Estimation_via_Monocular_Videos_ICCV_2019_paper.html)
+
+##### STR-GCN
+
+**Exploiting Spatial-Temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks**
+
+_Yujun Cai, Liuhao Ge, Jun Liu, Jianfei Cai, Tat-Jen Cham, Junsong Yuan, Nadia Magnenat Thalmann_
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Cai_Exploiting_Spatial-Temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_ICCV_2019_paper.html)
+
+##### GOR
+**Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking**
+
+_Saurabh Sharma, Pavan Teja Varigonda, Prashast Bindal, Abhishek Sharma, Arjun Jain_
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Sharma_Monocular_3D_Human_Pose_Estimation_by_Generation_and_Ordinal_Ranking_ICCV_2019_paper.html)
+
+##### C3DPO
+**C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion**
+
+_David Novotny, Nikhila Ravi, Benjamin Graham, Natalia Neverova, Andrea Vedaldi_
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Novotny_C3DPO_Canonical_3D_Pose_Networks_for_Non-Rigid_Structure_From_Motion_ICCV_2019_paper.html)
+
+##### HEMlets
+**HEMlets Pose: Learning Part-Centric Heatmap Triplets for Accurate 3D Human Pose Estimation**
+
+_Kun Zhou, Xiaoguang Han, Nianjuan Jiang, Kui Jia, Jiangbo Lu_
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhou_HEMlets_Pose_Learning_Part-Centric_Heatmap_Triplets_for_Accurate_3D_Human_ICCV_2019_paper.html)
+
+##### ONS
+**Optimizing Network Structure for 3D Human Pose Estimation**
+
+_Hai Ci, Chunyu Wang, Xiaoxuan Ma, Yizhou Wang_
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Ci_Optimizing_Network_Structure_for_3D_Human_Pose_Estimation_ICCV_2019_paper.html)
+
+##### DK
+**Distill Knowledge From NRSfM for Weakly Supervised 3D Pose Learning**
+
+_Chaoyang Wang, Chen Kong, Simon Lucey_
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Distill_Knowledge_From_NRSfM_for_Weakly_Supervised_3D_Pose_Learning_ICCV_2019_paper.html)
+
 ##### OANet
 **Occlusion-Aware Networks for 3D Human Pose Estimation in Video**
 
