@@ -61,11 +61,11 @@ _Hao-Shu Fang, Yuanlu Xu, Wenguan Wang, Xiaobai Liu, Song-Chun Zhu_[\[conf\]](ht
 <details>
   <summary>
     <p>Click to show BibTeX<p>
-  </summary>
-  @inproceedings{fang2018learning,  <\>
-  title={Learning pose grammar to encode human body configuration for 3d pose estimation},  <\>
-  author={Fang, Hao-Shu and Xu, Yuanlu and Wang, Wenguan and Liu, Xiaobai and Zhu, Song-Chun},  <\>
-  booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},  <\>
+  <summary>
+  @inproceedings{fang2018learning,  </>
+  title={Learning pose grammar to encode human body configuration for 3d pose estimation},  </>
+  author={Fang, Hao-Shu and Xu, Yuanlu and Wang, Wenguan and Liu, Xiaobai and Zhu, Song-Chun},  </>
+  booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},  </>
   year={2018}}
 </details>
 
