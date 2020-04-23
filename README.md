@@ -1,6 +1,7 @@
 # State-of-the-art methods on monocular 3D pose estimation / 3D mesh recovery
 
 Benchmark Leaderboard and state-of-the-art method list on monocular 3D pose estimation / 3D mesh recovery
+
 Feel free to [contribute](#Contribute)!
 
 ## Contents
@@ -16,15 +17,15 @@ Feel free to [contribute](#Contribute)!
  - [Datasets](#Datasets)
  - [Other Related Papers](#Other-related-papers)
 
-<h2 id="Benchmark Leaderboard">Benchmark Leaderboard</h2>
+## Benchmark Leaderboard
 
-## Evaluation Matrix
+### Evaluation Matrix
 
 See [``evaluation``](evaluation.md) to get more details on evaluation matrix for 3D pose estimation / mesh recovery.
 
 ### Comparisons on Human3.6M.
 
-See [``datasets/Human3.6M``](dataset/Human3.6M) to get more details on Human3.6M
+See [``datasets/Human3.6M``](datasets/Human3.6M) to get more details on Human3.6M
 
 | Methods | Publication | MPJPE | PA-MPJPE | link |
 | :----: | :----: | :----: | :----: | :----: |
