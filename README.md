@@ -29,7 +29,7 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 
 #### State-of-the-art 3D pose estimation methods
 
-| Methods | Publication | MPJPE | PA-MPJPE | link |
+| Methods | Publication | MPJPE\downarrow | PA-MPJPE\downarrow | link |
 | :----: | :----: | :----: | :----: | :----: |
 | [OANet](#OANet) |  ICCV19 |  42.9 | 32.8 | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Cheng_Occlusion-Aware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.html) |
 | [3DMPPE](#3DMPPE) |  ICCV19 | 54.4 | - | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Moon_Camera_Distance-Aware_Top-Down_Approach_for_3D_Multi-Person_Pose_Estimation_From_ICCV_2019_paper.html) [\[code\]](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE) |
@@ -53,7 +53,7 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 #### State-of-the-art 3D mesh recovery methods
 
 Evaluation Datasets of MPJPE: Human3.6M | Human3.6M | HumanEva-I | 3DPW 
-| Methods | Publication | MPJPE | PA-MPJPE | MPJPE | PA-MPJPE | link |
+| Methods | Publication | MPJPE\downarrow | PA-MPJPE\downarrow | MPJPE\downarrow | PA-MPJPE\downarrow | link |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [VIBE](#VIBE) |  CVPR20 | 65.6 | 41.4 | - | 51.9 | [\[arxiv\]](https://arxiv.org/abs/1912.05656) [\[code\]](https://github.com/mkocabas/VIBE) |
 | [DSD-SATN](#DSD-SATN) |  ICCV19 | 59.1 | 42.4 | - | 69.5 | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_Human_Mesh_Recovery_From_Monocular_Images_via_a_Skeleton-Disentangled_Representation_ICCV_2019_paper.html) [\[code\]](https://github.com/JDAI-CV/DSD-SATN) |
@@ -93,7 +93,7 @@ comming soon...
 
 _Muhammed Kocabas, Nikos Athanasiou, Michael J. Black_
 
-[\[arxiv\]](https://arxiv.org/abs/1912.05656) [\[code\]](https://github.com/mkocabas/VIBE)
+[\[arxiv\]](https://arxiv.org/abs/1912.05656) [\[Pytorch code\]](https://github.com/mkocabas/VIBE)
 
 ### 2019 ICCV
 
@@ -102,21 +102,21 @@ _Muhammed Kocabas, Nikos Athanasiou, Michael J. Black_
 
 _Yu Sun, Yun Ye, Wu Liu, Wenpeng Gao, Yili Fu, Tao Mei_
 
-[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_Human_Mesh_Recovery_From_Monocular_Images_via_a_Skeleton-Disentangled_Representation_ICCV_2019_paper.html) [\[code\]](https://github.com/JDAI-CV/DSD-SATN)
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_Human_Mesh_Recovery_From_Monocular_Images_via_a_Skeleton-Disentangled_Representation_ICCV_2019_paper.html) [\[Pytorch code\]](https://github.com/JDAI-CV/DSD-SATN)
 
 ##### SPIN
 **Learning to Reconstruct 3D Human Pose and Shape via Model-Fitting in the Loop**
 
 _Nikos Kolotouros, Georgios Pavlakos, Michael J. Black, Kostas Daniilidis_
 
-[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kolotouros_Learning_to_Reconstruct_3D_Human_Pose_and_Shape_via_Model-Fitting_ICCV_2019_paper.html) [\[code\]](https://github.com/nkolot/SPIN)
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kolotouros_Learning_to_Reconstruct_3D_Human_Pose_and_Shape_via_Model-Fitting_ICCV_2019_paper.html) [\[Pytorch code\]](https://github.com/nkolot/SPIN)
 
 ##### TexturePose
 **TexturePose: Supervising Human Mesh Estimation With Texture Consistency**
 
 _Georgios Pavlakos, Nikos Kolotouros, Kostas Daniilidis_
 
-[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Pavlakos_TexturePose_Supervising_Human_Mesh_Estimation_With_Texture_Consistency_ICCV_2019_paper.html) [\[code\]](https://www.seas.upenn.edu/~pavlakos/projects/texturepose/)
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Pavlakos_TexturePose_Supervising_Human_Mesh_Estimation_With_Texture_Consistency_ICCV_2019_paper.html) [\[Pytorch code\]](https://www.seas.upenn.edu/~pavlakos/projects/texturepose/)
 
 ##### DenseRaC
 **DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare**
@@ -137,7 +137,7 @@ _Yu Cheng, Bo Yang, Bo Wang, Wending Yan, Robby T. Tan_
 
 _Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee_
 
-[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Moon_Camera_Distance-Aware_Top-Down_Approach_for_3D_Multi-Person_Pose_Estimation_From_ICCV_2019_paper.html) [\[code\]](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Moon_Camera_Distance-Aware_Top-Down_Approach_for_3D_Multi-Person_Pose_Estimation_From_ICCV_2019_paper.html) [\[Pytorch code\]](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)
 
 ### 2019 CVPR
 
@@ -146,7 +146,7 @@ _Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee_
 
 _Nikos Kolotouros, Georgios Pavlakos, Kostas Daniilidis_
 
-[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kolotouros_Convolutional_Mesh_Regression_for_Single-Image_Human_Shape_Reconstruction_CVPR_2019_paper.html) [\[code\]](https://github.com/nkolot/GraphCMR)
+[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kolotouros_Convolutional_Mesh_Regression_for_Single-Image_Human_Shape_Reconstruction_CVPR_2019_paper.html) [\[Pytorch code\]](https://github.com/nkolot/GraphCMR)
 
 ##### HoloPose
 **HoloPose: Holistic 3D Human Reconstruction In-The-Wild**
@@ -160,28 +160,28 @@ _Riza Alp Guler, Iasonas Kokkinos_
 
 _Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik_
 
-[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kanazawa_Learning_3D_Human_Dynamics_From_Video_CVPR_2019_paper.html) [\[code\]](https://github.com/akanazawa/human_dynamics)
+[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kanazawa_Learning_3D_Human_Dynamics_From_Video_CVPR_2019_paper.html) [\[Tensorflow code\]](https://github.com/akanazawa/human_dynamics)
 
 ##### SemGCN
 **Semantic Graph Convolutional Networks for 3D Human Pose Regression**
 
 _Long Zhao, Xi Peng, Yu Tian, Mubbasir Kapadia, Dimitris N. Metaxas_
 
-[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Semantic_Graph_Convolutional_Networks_for_3D_Human_Pose_Regression_CVPR_2019_paper.html) [\[code\]](https://github.com/garyzhao/SemGCN)
+[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Semantic_Graph_Convolutional_Networks_for_3D_Human_Pose_Regression_CVPR_2019_paper.html) [\[Pytorch code\]](https://github.com/garyzhao/SemGCN)
 
 ##### VideoPose3D
 **3D Human Pose Estimation in Video With Temporal Convolutions and Semi-Supervised Training**
 
 _Dario Pavllo, Christoph Feichtenhofer, David Grangier, Michael Auli_
 
-[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.html) [\[code\]](https://github.com/facebookresearch/VideoPose3D)
+[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.html) [\[Pytorch code\]](https://github.com/facebookresearch/VideoPose3D)
 
 ##### EpipolarPose
 **Self-Supervised Learning of 3D Human Pose Using Multi-View Geometry**
 
 _Muhammed Kocabas, Salih Karagoz, Emre Akbas_
 
-[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kocabas_Self-Supervised_Learning_of_3D_Human_Pose_Using_Multi-View_Geometry_CVPR_2019_paper.html) [\[code\]](https://github.com/mkocabas/EpipolarPose)
+[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kocabas_Self-Supervised_Learning_of_3D_Human_Pose_Using_Multi-View_Geometry_CVPR_2019_paper.html) [\[Pytorch code\]](https://github.com/mkocabas/EpipolarPose)
 
 ### 2018 ECCV
 
@@ -197,7 +197,7 @@ _Mir Rayat Imtiaz Hossain, James J. Little_
 
 _Xiao Sun, Bin Xiao, Fangyin Wei, Shuang Liang, Yichen Wei_
 
-[\[conf\]](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiao_Sun_Integral_Human_Pose_ECCV_2018_paper.html) [\[code\]](https://github.com/JimmySuen/integral-human-pose)
+[\[conf\]](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiao_Sun_Integral_Human_Pose_ECCV_2018_paper.html) [\[Pytorch code\]](https://github.com/JimmySuen/integral-human-pose)
 
 ### 2018 CVPR
 
