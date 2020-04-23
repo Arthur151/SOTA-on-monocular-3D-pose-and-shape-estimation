@@ -16,7 +16,7 @@ Feel free to [contribute](#Contribute)!
  - [Datasets](#Datasets)
  - [Other Related Papers](#Other-related-papers)
 
-## Benchmark Leaderboard
+<h2 id="Benchmark Leaderboard">Benchmark Leaderboard</h2>
 
 ## Evaluation Matrix
 
@@ -60,13 +60,12 @@ See [``datasets/Human3.6M``](dataset/Human3.6M) to get more details on Human3.6M
   <summary>
     <p>Click to show BibTeX</p>
   </summary>
-@inproceedings{fang2018learning,
-  title={Learning pose grammar to encode human body configuration for 3d pose estimation},
-  author={Fang, Hao-Shu and Xu, Yuanlu and Wang, Wenguan and Liu, Xiaobai and Zhu, Song-Chun},
-  booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},
-  year={2018}
+@inproceedings{fang2018learning,;
+  title={Learning pose grammar to encode human body configuration for 3d pose estimation},;
+  author={Fang, Hao-Shu and Xu, Yuanlu and Wang, Wenguan and Liu, Xiaobai and Zhu, Song-Chun},;
+  booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},;
+  year={2018};
 }
-  <h2 id="header">Header</h2>
 </details>
 
 
