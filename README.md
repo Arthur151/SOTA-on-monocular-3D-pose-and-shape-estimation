@@ -48,8 +48,6 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 | [LFD](#LFD) |  CVPR17 | 113.0 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Tome_Lifting_From_the_CVPR_2017_paper.html) [\[code\]](https://github.com/DenisTome/Lifting-from-the-Deep-release) |
 | [SMD](#SMD) |  CVPR16 | 88.4 | - | [\[arxiv\]](https://arxiv.org/abs/1511.09439) [\[code\]](https://github.com/chuxiaoselena/SparsenessMeetsDeepness) |
 
-
-
 ## Method Zoo
 
 ## arXiv Papers
@@ -57,8 +55,10 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 ## Conference Papers
 
 ### 2020 ECCV
+comming soon...
 
 ### 2020 CVPR
+comming soon...
 
 ### 2019 ICCV
 
@@ -156,6 +156,7 @@ _Denis Tome, Chris Russell, Lourdes Agapito_
 [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Tome_Lifting_From_the_CVPR_2017_paper.html) [\[code\]](https://github.com/DenisTome/Lifting-from-the-Deep-release)
 
 ### 2017 ECCV
+comming soon...
 
 ### 2016 CVPR
 
@@ -171,7 +172,7 @@ _Xiaowei Zhou, Menglong Zhu, Spyridon Leonardos, Kosta Derpanis, Kostas Daniilid
 _Jun Liu, Henghui Ding, Amir Shahroudy, Ling-Yu Duan, Xudong Jiang, Gang Wang, Alex C. Kot_
 [\[arxiv\]](https://arxiv.org/abs/1901.04877)
 
-## Contribution
+## Contribute
 
 Contributions are welcome! 
 Please feel free to [pull requests](https://github.com/Arthur151/SOTA-on-monocular-3D-pose-and-shape-estimation/pulls), [open an issue](https://github.com/Arthur151/SOTA-on-monocular-3D-pose-and-shape-estimation/issues) or send me email (yusun@stu.hit.edu.cn) to add/correct state-of-the-art methods.
