@@ -29,7 +29,7 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 
 #### State-of-the-art 3D pose estimation methods
 
-| Methods | Publication | MPJPE</downarrow> | PA-MPJPE</downarrow> | link |
+| Methods | Publication | MPJPE </downarrow> | PA-MPJPE </downarrow> | link |
 | :----: | :----: | :----: | :----: | :----: |
 | [OANet](#OANet) |  ICCV19 |  42.9 | 32.8 | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Cheng_Occlusion-Aware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.html) |
 | [3DMPPE](#3DMPPE) |  ICCV19 | 54.4 | - | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Moon_Camera_Distance-Aware_Top-Down_Approach_for_3D_Multi-Person_Pose_Estimation_From_ICCV_2019_paper.html) [\[code\]](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE) |
