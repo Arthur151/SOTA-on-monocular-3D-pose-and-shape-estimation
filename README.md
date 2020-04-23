@@ -21,7 +21,7 @@ Feel free to [contribute](#Contribute)!
 
 ### Evaluation Matrix
 
-See [``evaluation``](evaluation.md) to get more details on evaluation matrix for 3D pose estimation / mesh recovery.
+See [``evaluation``](evaluation.md) to get more details on evaluation matrix for 3D pose estimation / mesh recovery. In general, MPJPE and PA-MPJPE are 3D joint errors, which are the lower, the better.
 
 ### Comparisons on Human3.6M.
 
@@ -29,7 +29,7 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 
 #### State-of-the-art 3D pose estimation methods
 
-| Methods | Publication | MPJPE </downarrow> | PA-MPJPE </downarrow> | link |
+| Methods | Publication | MPJPE | PA-MPJPE | link |
 | :----: | :----: | :----: | :----: | :----: |
 | [OANet](#OANet) |  ICCV19 |  42.9 | 32.8 | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Cheng_Occlusion-Aware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.html) |
 | [3DMPPE](#3DMPPE) |  ICCV19 | 54.4 | - | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Moon_Camera_Distance-Aware_Top-Down_Approach_for_3D_Multi-Person_Pose_Estimation_From_ICCV_2019_paper.html) [\[code\]](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE) |
@@ -53,7 +53,7 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 #### State-of-the-art 3D mesh recovery methods
 
 Evaluation Datasets of MPJPE: Human3.6M | Human3.6M | HumanEva-I | 3DPW 
-| Methods | Publication | MPJPE\downarrow | PA-MPJPE\downarrow | MPJPE\downarrow | PA-MPJPE\downarrow | link |
+| Methods | Publication | MPJPE | PA-MPJPE | MPJPE | PA-MPJPE | link |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [VIBE](#VIBE) |  CVPR20 | 65.6 | 41.4 | - | 51.9 | [\[arxiv\]](https://arxiv.org/abs/1912.05656) [\[code\]](https://github.com/mkocabas/VIBE) |
 | [DSD-SATN](#DSD-SATN) |  ICCV19 | 59.1 | 42.4 | - | 69.5 | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_Human_Mesh_Recovery_From_Monocular_Images_via_a_Skeleton-Disentangled_Representation_ICCV_2019_paper.html) [\[code\]](https://github.com/JDAI-CV/DSD-SATN) |
