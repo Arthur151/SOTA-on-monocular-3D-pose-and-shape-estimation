@@ -63,44 +63,12 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 ##### ODS
 Ordinal Depth Supervision for 3D Human Pose Estimation  
 _Georgios Pavlakos, Xiaowei Zhou, Kostas Daniilidis_
-[\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.html) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) |
-<details>
-  <summary>
-    <p>Click to show BibTeX<p>
-  </summary>
-@InProceedings{Pavlakos_2018_CVPR,
-
-author = {Pavlakos, Georgios and Zhou, Xiaowei and Daniilidis, Kostas},
-
-title = {Ordinal Depth Supervision for 3D Human Pose Estimation},
-
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-
-month = {June},
-
-year = {2018}}
-</details>
+[\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.html) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) 
 
 ##### Deephar
 2D/3D Pose Estimation and Action Recognition Using Multitask Deep Learning  
 _Diogo C. Luvizon, David Picard, Hedi Tabia_
-[\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.html) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) |
-<details>
-  <summary>
-    <p>Click to show BibTeX<p>
-  </summary>
-@InProceedings{Luvizon_2018_CVPR,
-
-author = {Luvizon, Diogo C. and Picard, David and Tabia, Hedi},
-
-title = {2D/3D Pose Estimation and Action Recognition Using Multitask Deep Learning},
-
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-
-month = {June},
-
-year = {2018}}
-</details>
+[\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.html) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) 
 
 ### 2018 ICCV
 
@@ -110,20 +78,6 @@ year = {2018}}
 Learning Pose Grammar to Encode Human Body Configuration for 3D Pose Estimation   
 _Hao-Shu Fang, Yuanlu Xu, Wenguan Wang, Xiaobai Liu, Song-Chun Zhu_
 [\[conf\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471)
-<details>
-  <summary>
-    <p>Click to show BibTeX<p>
-  </summary>
-  @inproceedings{fang2018learning,  
-
-  title={Learning pose grammar to encode human body configuration for 3d pose estimation}, 
-
-  author={Fang, Hao-Shu and Xu, Yuanlu and Wang, Wenguan and Liu, Xiaobai and Zhu, Song-Chun}, 
-
-  booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},
-
-  year={2018}}
-</details>
 
 ### 2017 CVPR
 
