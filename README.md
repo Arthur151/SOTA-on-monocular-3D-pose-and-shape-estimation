@@ -35,7 +35,7 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 | RPSM |  CVPR17 | 73.1 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Lin_Recurrent_3D_Pose_CVPR_2017_paper.html) [\[code\]](https://github.com/MudeLin/RPSM) |
 | pavlakos17volumetric |  CVPR17 | 71.9 | 51.9 | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Pavlakos_Coarse-To-Fine_Volumetric_Prediction_CVPR_2017_paper.html) [\[code\]](https://github.com/geopavlakos/c2f-vol-demo) |
 | tome2017lifting|  CVPR17 | 113.0 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Tome_Lifting_From_the_CVPR_2017_paper.html) [\[code\]](https://github.com/DenisTome/Lifting-from-the-Deep-release) |
-| sparseness |  CVPR16 | 88.4 | - | [\[arxiv\](https://arxiv.org/abs/1511.09439) [\[code\]](https://github.com/chuxiaoselena/SparsenessMeetsDeepness) |
+| sparseness |  CVPR16 | 88.4 | - | [\[arxiv\]](https://arxiv.org/abs/1511.09439) [\[code\]](https://github.com/chuxiaoselena/SparsenessMeetsDeepness) |
 
 
 
@@ -62,11 +62,11 @@ _Hao-Shu Fang, Yuanlu Xu, Wenguan Wang, Xiaobai Liu, Song-Chun Zhu_[\[conf\]](ht
   <summary>
     <p>Click to show BibTeX</p>
   </summary>
-@inproceedings{fang2018learning,  
+  ``@inproceedings{fang2018learning,  
   title={Learning pose grammar to encode human body configuration for 3d pose estimation},  
   author={Fang, Hao-Shu and Xu, Yuanlu and Wang, Wenguan and Liu, Xiaobai and Zhu, Song-Chun},  
   booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},  
-  year={2018}}
+  year={2018}}``
 </details>
 
 ### 2017 CVPR
