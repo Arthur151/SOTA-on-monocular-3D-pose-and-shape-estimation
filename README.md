@@ -77,18 +77,18 @@ Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee
 ### 2019 CVPR
 
 ##### SemGCN
-Semantic Graph Convolutional Networks for 3D Human Pose Regression
+**Semantic Graph Convolutional Networks for 3D Human Pose Regression**
 
 Long Zhao, Xi Peng, Yu Tian, Mubbasir Kapadia, Dimitris N. Metaxas
 
 ##### VideoPose3D
-3D Human Pose Estimation in Video With Temporal Convolutions and Semi-Supervised Training
+**3D Human Pose Estimation in Video With Temporal Convolutions and Semi-Supervised Training**
 
 _Dario Pavllo, Christoph Feichtenhofer, David Grangier, Michael Auli_
 [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.html) [\[code\]](https://github.com/facebookresearch/VideoPose3D)
 
 ##### EpipolarPose
-Self-Supervised Learning of 3D Human Pose Using Multi-View Geometry
+**Self-Supervised Learning of 3D Human Pose Using Multi-View Geometry**
 
 _Muhammed Kocabas, Salih Karagoz, Emre Akbas_
 [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kocabas_Self-Supervised_Learning_of_3D_Human_Pose_Using_Multi-View_Geometry_CVPR_2019_paper.html) [\[code\]](https://github.com/mkocabas/EpipolarPose)
@@ -96,13 +96,13 @@ _Muhammed Kocabas, Salih Karagoz, Emre Akbas_
 ### 2018 ECCV
 
 ##### TP-Net
-Exploiting temporal information for 3D human pose estimation
+**Exploiting temporal information for 3D human pose estimation**
 
 _Mir Rayat Imtiaz Hossain, James J. Little_
 [\[conf\]](http://openaccess.thecvf.com/content_ECCV_2018/html/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.html) [\[code\]](https://github.com/rayat137/Pose_3D)
 
 ##### IHPR
-Integral Human Pose Regression
+**Integral Human Pose Regression**
 
 _Xiao Sun, Bin Xiao, Fangyin Wei, Shuang Liang, Yichen Wei_
 [\[conf\]](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiao_Sun_Integral_Human_Pose_ECCV_2018_paper.html) [\[code\]](https://github.com/JimmySuen/integral-human-pose)
@@ -110,48 +110,48 @@ _Xiao Sun, Bin Xiao, Fangyin Wei, Shuang Liang, Yichen Wei_
 ### 2018 CVPR
 
 ##### MVC 
-Learning Monocular 3D Human Pose Estimation From Multi-View Images
+**Learning Monocular 3D Human Pose Estimation From Multi-View Images**
 
 _Helge Rhodin, Jörg Spörri, Isinsu Katircioglu, Victor Constantin, Frédéric Meyer, Erich Müller, Mathieu Salzmann, Pascal Fua_
 [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Rhodin_Learning_Monocular_3D_CVPR_2018_paper.html)
 
 ##### Deephar
-2D/3D Pose Estimation and Action Recognition Using Multitask Deep Learning
+**2D/3D Pose Estimation and Action Recognition Using Multitask Deep Learning**
 
 _Diogo C. Luvizon, David Picard, Hedi Tabia_
 [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Luvizon_2D3D_Pose_Estimation_CVPR_2018_paper.html) [\[code\]](https://github.com/dluvizon/deephar)
 
 ##### ODS
-Ordinal Depth Supervision for 3D Human Pose Estimation  
+**Ordinal Depth Supervision for 3D Human Pose Estimation**  
 _Georgios Pavlakos, Xiaowei Zhou, Kostas Daniilidis_
 [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.html) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) 
 
 ##### Deephar
-2D/3D Pose Estimation and Action Recognition Using Multitask Deep Learning  
+**2D/3D Pose Estimation and Action Recognition Using Multitask Deep Learning**  
 _Diogo C. Luvizon, David Picard, Hedi Tabia_
 [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.html) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) 
 
 ### 2018 Others
 
 ##### LPG-AAAI18
-Learning Pose Grammar to Encode Human Body Configuration for 3D Pose Estimation   
+**Learning Pose Grammar to Encode Human Body Configuration for 3D Pose Estimation**   
 _Hao-Shu Fang, Yuanlu Xu, Wenguan Wang, Xiaobai Liu, Song-Chun Zhu_
 [\[conf\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471)
 
 ### 2017 CVPR
 
 ##### RPSM
-Recurrent 3D Pose Sequence Machines  
+**Recurrent 3D Pose Sequence Machines**  
 _Mude Lin, Liang Lin, Xiaodan Liang, Keze Wang, Hui Cheng_
 [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Lin_Recurrent_3D_Pose_CVPR_2017_paper.html) [\[code\]](https://github.com/MudeLin/RPSM)
 
 ##### C2F
-Coarse-To-Fine Volumetric Prediction for Single-Image 3D Human Pose  
+**Coarse-To-Fine Volumetric Prediction for Single-Image 3D Human Pose**  
 _Georgios Pavlakos, Xiaowei Zhou, Konstantinos G. Derpanis, Kostas Daniilidis_
 [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Pavlakos_Coarse-To-Fine_Volumetric_Prediction_CVPR_2017_paper.html) [\[code\]](https://github.com/geopavlakos/c2f-vol-demo)
 
 ##### LFD
-Lifting From the Deep: Convolutional 3D Pose Estimation From a Single Image  
+**Lifting From the Deep: Convolutional 3D Pose Estimation From a Single Image**  
 _Denis Tome, Chris Russell, Lourdes Agapito_
 [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Tome_Lifting_From_the_CVPR_2017_paper.html) [\[code\]](https://github.com/DenisTome/Lifting-from-the-Deep-release)
 
@@ -160,14 +160,14 @@ _Denis Tome, Chris Russell, Lourdes Agapito_
 ### 2016 CVPR
 
 ###### SMD
-Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video  
+**Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video**  
 _Xiaowei Zhou, Menglong Zhu, Spyridon Leonardos, Kosta Derpanis, Kostas Daniilidis_
 [\[arxiv\]](https://arxiv.org/abs/1511.09439) [\[code\]](https://github.com/chuxiaoselena/SparsenessMeetsDeepness)
 
 ## Journal-Papers
 
 ###### FBN
-Feature Boosting Network For 3D Pose Estimation  
+**Feature Boosting Network For 3D Pose Estimation**  
 _Jun Liu, Henghui Ding, Amir Shahroudy, Ling-Yu Duan, Xudong Jiang, Gang Wang, Alex C. Kot_
 [\[arxiv\]](https://arxiv.org/abs/1901.04877)
 
