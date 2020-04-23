@@ -25,7 +25,7 @@ See [``evaluation``](evaluation.md) to get more details on evaluation matrix for
 
 ### Comparisons on Human3.6M.
 
-See [``datasets/Human3.6M``](datasets/Human3.6M) to get more details on Human3.6M
+See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human3.6M
 
 | Methods | Publication | MPJPE | PA-MPJPE | link |
 | :----: | :----: | :----: | :----: | :----: |
@@ -56,7 +56,8 @@ See [``datasets/Human3.6M``](datasets/Human3.6M) to get more details on Human3.6
 ### 2018 Others
 
 ##### LPG
-
+Learning Pose Grammar to Encode Human Body Configuration for 3D Pose Estimation
+_Hao-Shu Fang, Yuanlu Xu, Wenguan Wang, Xiaobai Liu, Song-Chun Zhu_
 <details>
   <summary>
     <p>Click to show BibTeX</p>
