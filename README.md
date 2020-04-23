@@ -85,8 +85,10 @@ _Hao-Shu Fang, Yuanlu Xu, Wenguan Wang, Xiaobai Liu, Song-Chun Zhu_
 
 ### 2016 CVPR
 
-###### Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video
+###### SMD
+Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video  
 _Xiaowei Zhou, Menglong Zhu, Spyridon Leonardos, Kosta Derpanis, Kostas Daniilidis_
+[\[arxiv\]](https://arxiv.org/abs/1511.09439) [\[code\]](https://github.com/chuxiaoselena/SparsenessMeetsDeepness)
 
 ## Journal-Papers
 
