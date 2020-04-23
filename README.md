@@ -29,13 +29,20 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 
 | Methods | Publication | MPJPE | PA-MPJPE | link |
 | :----: | :----: | :----: | :----: | :----: |
+| [ODS](#ODS) |  AAAI18 | 60.4 | 45.7 | [\[conf\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) |
+| [ODS](#ODS) |  AAAI18 | 60.4 | 45.7 | [\[conf\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) |
+| [ODS](#ODS) |  AAAI18 | 60.4 | 45.7 | [\[conf\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) |
+| [ODS](#ODS) |  AAAI18 | 60.4 | 45.7 | [\[conf\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) |
+| [ODS](#ODS) |  AAAI18 | 60.4 | 45.7 | [\[conf\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) |
+| [Deephar](#Deephar) |  CVPR18 | 53.2 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Luvizon_2D3D_Pose_Estimation_CVPR_2018_paper.html) [\[code\]](https://github.com/dluvizon/deephar) |
+| [ODS](#ODS) |  CVPR18 | 56.2 | 41.8 | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.html) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) |
 | [LPG](#LPG) |  AAAI18 | 60.4 | 45.7 | [\[conf\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471) |
-| sun2017compositional |  ICCV17 | 92.4 | 59.1 | [\[conf\]](http://openaccess.thecvf.com/content_iccv_2017/html/Sun_Compositional_Human_Pose_ICCV_2017_paper.html) |
-| Simplebaseline |  ICCV17 | 62.9 | 47.7 | [\[conf\]](http://openaccess.thecvf.com/content_iccv_2017/html/Martinez_A_Simple_yet_ICCV_2017_paper.html) [\[code\]](https://github.com/una-dinosauria/3d-pose-baseline) |
+| [CHPR](#CHPR) |  ICCV17 | 92.4 | 59.1 | [\[conf\]](http://openaccess.thecvf.com/content_iccv_2017/html/Sun_Compositional_Human_Pose_ICCV_2017_paper.html) |
+| [3DPB](#3DPB) |  ICCV17 | 62.9 | 47.7 | [\[conf\]](http://openaccess.thecvf.com/content_iccv_2017/html/Martinez_A_Simple_yet_ICCV_2017_paper.html) [\[code\]](https://github.com/una-dinosauria/3d-pose-baseline) |
 | RPSM |  CVPR17 | 73.1 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Lin_Recurrent_3D_Pose_CVPR_2017_paper.html) [\[code\]](https://github.com/MudeLin/RPSM) |
-| pavlakos17volumetric |  CVPR17 | 71.9 | 51.9 | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Pavlakos_Coarse-To-Fine_Volumetric_Prediction_CVPR_2017_paper.html) [\[code\]](https://github.com/geopavlakos/c2f-vol-demo) |
-| tome2017lifting|  CVPR17 | 113.0 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Tome_Lifting_From_the_CVPR_2017_paper.html) [\[code\]](https://github.com/DenisTome/Lifting-from-the-Deep-release) |
-| sparseness |  CVPR16 | 88.4 | - | [\[arxiv\]](https://arxiv.org/abs/1511.09439) [\[code\]](https://github.com/chuxiaoselena/SparsenessMeetsDeepness) |
+| [C2F](#C2F) |  CVPR17 | 71.9 | 51.9 | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Pavlakos_Coarse-To-Fine_Volumetric_Prediction_CVPR_2017_paper.html) [\[code\]](https://github.com/geopavlakos/c2f-vol-demo) |
+| [LFD](#LFD) |  CVPR17 | 113.0 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Tome_Lifting_From_the_CVPR_2017_paper.html) [\[code\]](https://github.com/DenisTome/Lifting-from-the-Deep-release) |
+| [SMD](#SMD) |  CVPR16 | 88.4 | - | [\[arxiv\]](https://arxiv.org/abs/1511.09439) [\[code\]](https://github.com/chuxiaoselena/SparsenessMeetsDeepness) |
 
 
 
@@ -51,22 +58,71 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 
 ### 2019 CVPR
 
+### 2018 CVPR
+
+##### ODS
+Ordinal Depth Supervision for 3D Human Pose Estimation  
+_Georgios Pavlakos, Xiaowei Zhou, Kostas Daniilidis_
+[\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.html) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) |
+<details>
+  <summary>
+    <p>Click to show BibTeX<p>
+  </summary>
+@InProceedings{Pavlakos_2018_CVPR,
+
+author = {Pavlakos, Georgios and Zhou, Xiaowei and Daniilidis, Kostas},
+
+title = {Ordinal Depth Supervision for 3D Human Pose Estimation},
+
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+
+month = {June},
+
+year = {2018}}
+</details>
+
+##### Deephar
+2D/3D Pose Estimation and Action Recognition Using Multitask Deep Learning  
+_Diogo C. Luvizon, David Picard, Hedi Tabia_
+[\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.html) [\[code\]](https://github.com/geopavlakos/ordinal-pose3d) |
+<details>
+  <summary>
+    <p>Click to show BibTeX<p>
+  </summary>
+@InProceedings{Luvizon_2018_CVPR,
+
+author = {Luvizon, Diogo C. and Picard, David and Tabia, Hedi},
+
+title = {2D/3D Pose Estimation and Action Recognition Using Multitask Deep Learning},
+
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+
+month = {June},
+
+year = {2018}}
+</details>
+
 ### 2018 ICCV
 
 ### 2018 Others
 
 ##### LPG 
 Learning Pose Grammar to Encode Human Body Configuration for 3D Pose Estimation   
-_Hao-Shu Fang, Yuanlu Xu, Wenguan Wang, Xiaobai Liu, Song-Chun Zhu_[\[conf\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471)
+_Hao-Shu Fang, Yuanlu Xu, Wenguan Wang, Xiaobai Liu, Song-Chun Zhu_
+[\[conf\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471)
 <details>
   <summary>
     <p>Click to show BibTeX<p>
   </summary>
-  >@inproceedings{fang2018learning,  
-  >title={Learning pose grammar to encode human body configuration for 3d pose estimation}, 
-  >author={Fang, Hao-Shu and Xu, Yuanlu and Wang, Wenguan and Liu, Xiaobai and Zhu, Song-Chun}, 
-  >booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},
-  >year={2018}}
+  @inproceedings{fang2018learning,  
+
+  title={Learning pose grammar to encode human body configuration for 3d pose estimation}, 
+
+  author={Fang, Hao-Shu and Xu, Yuanlu and Wang, Wenguan and Liu, Xiaobai and Zhu, Song-Chun}, 
+
+  booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},
+
+  year={2018}}
 </details>
 
 ### 2017 CVPR
