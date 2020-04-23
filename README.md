@@ -52,8 +52,8 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 
 #### State-of-the-art 3D mesh recovery methods
 
-| Datasets |   -    | Human3.6M | Human3.6M | HumanEva-I | 3DPW | - |
-| Methods | Publication | MPJPE(H36M) | PA-MPJPE(H36M) | MPJPE(HumanEva-I) | PA-MPJPE(3DPW) | link |
+| Evaluation Datasets: Human3.6M | Human3.6M | HumanEva-I | 3DPW 
+| Methods | Publication | MPJPE | PA-MPJPE | MPJPE | PA-MPJPE | link |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [GCMR](#GCMR) |  CVPR19 | 71.9 | 50.1 | - | - | [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Semantic_Graph_Convolutional_Networks_for_3D_Human_Pose_Regression_CVPR_2019_paper.html) [\[code\]](https://github.com/nkolot/GraphCMR) |
 | [HMR-video](#HMR-video) |  CVPR19 | - | 56.9 | - | 72.6 | [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kanazawa_Learning_3D_Human_Dynamics_From_Video_CVPR_2019_paper.html) [\[code\]](https://github.com/akanazawa/human_dynamics) |
