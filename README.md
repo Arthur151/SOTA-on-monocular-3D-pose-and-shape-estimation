@@ -55,7 +55,13 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 Evaluation Datasets of MPJPE: Human3.6M | Human3.6M | HumanEva-I | 3DPW 
 | Methods | Publication | MPJPE | PA-MPJPE | MPJPE | PA-MPJPE | link |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [GCMR](#GCMR) |  CVPR19 | 71.9 | 50.1 | - | - | [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Semantic_Graph_Convolutional_Networks_for_3D_Human_Pose_Regression_CVPR_2019_paper.html) [\[code\]](https://github.com/nkolot/GraphCMR) |
+| [VIBE](#VIBE) |  CVPR20 | 65.6 | 41.4 | - | 51.9 | [\[arxiv\]](https://arxiv.org/abs/1912.05656) [\[code\]](https://github.com/mkocabas/VIBE) |
+| [DSD-SATN](#DSD-SATN) |  ICCV19 | 59.1 | 42.4 | - | 69.5 | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_Human_Mesh_Recovery_From_Monocular_Images_via_a_Skeleton-Disentangled_Representation_ICCV_2019_paper.html) [\[code\]](https://github.com/JDAI-CV/DSD-SATN) |
+| [SPIN](#SPIN) |  ICCV19 | - | 41.1 | - | 59.2 | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kolotouros_Learning_to_Reconstruct_3D_Human_Pose_and_Shape_via_Model-Fitting_ICCV_2019_paper.html) [\[code\]](https://github.com/nkolot/SPIN) |
+| [Texturepose](#Texturepose) |  ICCV19 | - | 49.7 | - | - | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Pavlakos_TexturePose_Supervising_Human_Mesh_Estimation_With_Texture_Consistency_ICCV_2019_paper.html) [\[code\]](https://www.seas.upenn.edu/~pavlakos/projects/texturepose/) |
+| [DenseRaC](#DenseRaC) |  ICCV19 | 76.8 | 48.0 | - | - | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Xu_DenseRaC_Joint_3D_Pose_and_Shape_Estimation_by_Dense_Render-and-Compare_ICCV_2019_paper.html) |
+| [HoloPose](#HoloPose) |  CVPR19 |  60.2 | 46.5 | - | - | [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Guler_HoloPose_Holistic_3D_Human_Reconstruction_In-The-Wild_CVPR_2019_paper.html) [\[code\]](http://arielai.com/holopose) |
+| [GCMR](#GCMR) |  CVPR19 | 71.9 | 50.1 | - | - | [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kolotouros_Convolutional_Mesh_Regression_for_Single-Image_Human_Shape_Reconstruction_CVPR_2019_paper.html) [\[code\]](https://github.com/nkolot/GraphCMR) |
 | [HMR-video](#HMR-video) |  CVPR19 | - | 56.9 | - | 72.6 | [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kanazawa_Learning_3D_Human_Dynamics_From_Video_CVPR_2019_paper.html) [\[code\]](https://github.com/akanazawa/human_dynamics) |
 | [HMR](#HMR) |  CVPR18 | 87.9 | 58.1 | - | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Kanazawa_End-to-End_Recovery_of_CVPR_2018_paper.html) [\[code\]](https://github.com/akanazawa/hmr) [\[Pytorch\]](https://github.com/MandyMo/pytorch_HMR) |
 | [UP](#UP) |  CVPR17 | 80.7 | - | 74.5 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Lassner_Unite_the_People_CVPR_2017_paper.html) [\[code\]](http://up.is.tuebingen.mpg.de/) |
@@ -81,14 +87,43 @@ _Hiroharu Kato, Yoshitaka Ushiku, Tatsuya Harada_
 comming soon...
 
 ### 2020 CVPR
-comming soon...
+
+##### VIBE
+**VIBE: Video Inference for Human Body Pose and Shape Estimation**
+
+_Muhammed Kocabas, Nikos Athanasiou, Michael J. Black_
+[\[arxiv\]](https://arxiv.org/abs/1912.05656) [\[code\]](https://github.com/mkocabas/VIBE)
 
 ### 2019 ICCV
+
+##### DSD-SATN
+**Human Mesh Recovery From Monocular Images via a Skeleton-Disentangled Representation**
+
+_Yu Sun, Yun Ye, Wu Liu, Wenpeng Gao, Yili Fu, Tao Mei_
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_Human_Mesh_Recovery_From_Monocular_Images_via_a_Skeleton-Disentangled_Representation_ICCV_2019_paper.html) [\[code\]](https://github.com/JDAI-CV/DSD-SATN)
+
+##### SPIN
+**Learning to Reconstruct 3D Human Pose and Shape via Model-Fitting in the Loop**
+
+_Nikos Kolotouros, Georgios Pavlakos, Michael J. Black, Kostas Daniilidis_
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kolotouros_Learning_to_Reconstruct_3D_Human_Pose_and_Shape_via_Model-Fitting_ICCV_2019_paper.html) [\[code\]](https://github.com/nkolot/SPIN)
+
+##### TexturePose
+**TexturePose: Supervising Human Mesh Estimation With Texture Consistency**
+
+_Georgios Pavlakos, Nikos Kolotouros, Kostas Daniilidis_
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Pavlakos_TexturePose_Supervising_Human_Mesh_Estimation_With_Texture_Consistency_ICCV_2019_paper.html) [\[code\]](https://www.seas.upenn.edu/~pavlakos/projects/texturepose/)
+
+##### DenseRaC
+**DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare**
+
+_Yuanlu Xu, Song-Chun Zhu, Tony Tung_
+[\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Xu_DenseRaC_Joint_3D_Pose_and_Shape_Estimation_by_Dense_Render-and-Compare_ICCV_2019_paper.html)
 
 ##### OANet
 **Occlusion-Aware Networks for 3D Human Pose Estimation in Video**
 
-Yu Cheng, Bo Yang, Bo Wang, Wending Yan, Robby T. Tan
+_Yu Cheng, Bo Yang, Bo Wang, Wending Yan, Robby T. Tan_
 [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Cheng_Occlusion-Aware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.html)
 
 ##### 3DMPPE
@@ -100,10 +135,16 @@ _Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee_
 ### 2019 CVPR
 
 ##### GCMR
-**Semantic Graph Convolutional Networks for 3D Human Pose Regression**
+**Convolutional Mesh Regression for Single-Image Human Shape Reconstruction**
 
-_Long Zhao, Xi Peng, Yu Tian, Mubbasir Kapadia, Dimitris N. Metaxas_
-[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Semantic_Graph_Convolutional_Networks_for_3D_Human_Pose_Regression_CVPR_2019_paper.html) [\[code\]](https://github.com/nkolot/GraphCMR)
+_Nikos Kolotouros, Georgios Pavlakos, Kostas Daniilidis_
+[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kolotouros_Convolutional_Mesh_Regression_for_Single-Image_Human_Shape_Reconstruction_CVPR_2019_paper.html) [\[code\]](https://github.com/nkolot/GraphCMR)
+
+##### HoloPose
+**HoloPose: Holistic 3D Human Reconstruction In-The-Wild**
+
+_Riza Alp Guler, Iasonas Kokkinos_
+[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Guler_HoloPose_Holistic_3D_Human_Reconstruction_In-The-Wild_CVPR_2019_paper.html) [\[code\]](http://arielai.com/holopose)
 
 ##### HMR-video
 **Learning 3D Human Dynamics From Video**
@@ -114,7 +155,8 @@ _Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik_
 ##### SemGCN
 **Semantic Graph Convolutional Networks for 3D Human Pose Regression**
 
-Long Zhao, Xi Peng, Yu Tian, Mubbasir Kapadia, Dimitris N. Metaxas
+_Long Zhao, Xi Peng, Yu Tian, Mubbasir Kapadia, Dimitris N. Metaxas_
+[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Semantic_Graph_Convolutional_Networks_for_3D_Human_Pose_Regression_CVPR_2019_paper.html) [\[code\]](https://github.com/garyzhao/SemGCN)
 
 ##### VideoPose3D
 **3D Human Pose Estimation in Video With Temporal Convolutions and Semi-Supervised Training**
