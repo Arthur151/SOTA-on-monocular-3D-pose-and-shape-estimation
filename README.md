@@ -165,6 +165,8 @@ comming soon...
 _Xiaowei Zhou, Menglong Zhu, Spyridon Leonardos, Kosta Derpanis, Kostas Daniilidis_
 [\[arxiv\]](https://arxiv.org/abs/1511.09439) [\[code\]](https://github.com/chuxiaoselena/SparsenessMeetsDeepness)
 
+[\[Back to top\]](#Contents)
+
 ## Journal-Papers
 
 ###### FBN
