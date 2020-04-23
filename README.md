@@ -12,7 +12,7 @@ Feel free to [contribute](#Contribute)!
    - 2019: [CVPR](#2019-CVPR), [ICCV](#2019-ICCV)
    - 2018: [CVPR](#2018-CVPR), [ECCV](#2018-ECCV), [Others](#2018-Others)
    - 2017: [CVPR](#2017-CVPR), [ICCV](#2017-ICCV)
-   - 2016: [CVPR](#2016-CVPR)
+   - 2016: [CVPR](#2016-CVPR), [ECCV](#2016-ECCV)
  - [Journal Papers](#Journal-Papers)
  - [Datasets](#Datasets)
  - [Other Related Papers](#Other-related-papers)
@@ -26,6 +26,8 @@ See [``evaluation``](evaluation.md) to get more details on evaluation matrix for
 ### Comparisons on Human3.6M.
 
 See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human3.6M
+
+#### State-of-the-art 3D pose estimation methods
 
 | Methods | Publication | MPJPE | PA-MPJPE | link |
 | :----: | :----: | :----: | :----: | :----: |
@@ -46,7 +48,28 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 | [RPSM](#RPSM) |  CVPR17 | 73.1 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Lin_Recurrent_3D_Pose_CVPR_2017_paper.html) [\[code\]](https://github.com/MudeLin/RPSM) |
 | [C2F](#C2F) |  CVPR17 | 71.9 | 51.9 | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Pavlakos_Coarse-To-Fine_Volumetric_Prediction_CVPR_2017_paper.html) [\[code\]](https://github.com/geopavlakos/c2f-vol-demo) |
 | [LFD](#LFD) |  CVPR17 | 113.0 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Tome_Lifting_From_the_CVPR_2017_paper.html) [\[code\]](https://github.com/DenisTome/Lifting-from-the-Deep-release) |
-| [SMD](#SMD) |  CVPR16 | 88.4 | - | [\[arxiv\]](https://arxiv.org/abs/1511.09439) [\[code\]](https://github.com/chuxiaoselena/SparsenessMeetsDeepness) |
+| [SMD](#SMD) |  CVPR16 | 88.4 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhou_Sparseness_Meets_Deepness_CVPR_2016_paper.html) [\[code\]](https://github.com/chuxiaoselena/SparsenessMeetsDeepness) |
+
+#### State-of-the-art 3D mesh recovery methods
+
+| Datasets |   | Human3.6M | Human3.6M | HumanEva-I | 3DPW |   |
+| Methods | Publication | MPJPE | PA-MPJPE | MPJPE | PA-MPJPE | link |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| [3DPB](#3DPB) |  ICCV17 | 62.9 | 47.7 | [\[conf\]](http://openaccess.thecvf.com/content_iccv_2017/html/Martinez_A_Simple_yet_ICCV_2017_paper.html) [\[code\]](https://github.com/una-dinosauria/3d-pose-baseline) |
+| [HMR-video](#HMR-video) |  CVPR19 | - | 56.9 | - | 72.6 | [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kanazawa_Learning_3D_Human_Dynamics_From_Video_CVPR_2019_paper.html) [\[code\]](https://github.com/akanazawa/human_dynamics) |
+| [HMR](#HMR) |  CVPR18 | 87.9 | 58.1 | - | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Kanazawa_End-to-End_Recovery_of_CVPR_2018_paper.html) [\[code\]](https://github.com/akanazawa/hmr) [\[Pytorch\]](https://github.com/MandyMo/pytorch_HMR) |
+| [UP](#UP) |  CVPR17 | 80.7 | - | 74.5 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Lassner_Unite_the_People_CVPR_2017_paper.html) [\[code\]](http://up.is.tuebingen.mpg.de/) |
+| [SMPLify](#SMPLify) |  ECCV16 | 82.3 | - | 79.9 | - | [\[Paper\]](http://files.is.tue.mpg.de/black/papers/BogoECCV2016.pdf) [\[code\]](http://smplify.is.tue.mpg.de/) |
+
+## Valuable Code
+
+### Differential Renderer
+
+##### NMR CVPR18
+**Neural 3D Mesh Renderer**
+
+_Hiroharu Kato, Yoshitaka Ushiku, Tatsuya Harada_
+[\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Kato_Neural_3D_Mesh_CVPR_2018_paper.html) [\[Project\]](http://hiroharu-kato.com/projects_en/neural_renderer.html) [\[Tensorflow - official\]](https://github.com/hiroharu-kato/neural_renderer) [\[Pytorch\]](https://github.com/daniilidis-group/neural_renderer) 
 
 ## Method Zoo
 
@@ -75,6 +98,12 @@ Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee
 [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Moon_Camera_Distance-Aware_Top-Down_Approach_for_3D_Multi-Person_Pose_Estimation_From_ICCV_2019_paper.html) [\[code\]](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)
 
 ### 2019 CVPR
+
+##### HMR-video
+**Learning 3D Human Dynamics From Video**
+
+_Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik_
+[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kanazawa_Learning_3D_Human_Dynamics_From_Video_CVPR_2019_paper.html) [\[code\]](https://github.com/akanazawa/human_dynamics)
 
 ##### SemGCN
 **Semantic Graph Convolutional Networks for 3D Human Pose Regression**
@@ -109,6 +138,12 @@ _Xiao Sun, Bin Xiao, Fangyin Wei, Shuang Liang, Yichen Wei_
 
 ### 2018 CVPR
 
+##### HMR
+**End-to-End Recovery of Human Shape and Pose**
+
+_Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik_
+[\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Kanazawa_End-to-End_Recovery_of_CVPR_2018_paper.html) [\[Tensorflow - official\]](https://github.com/akanazawa/hmr) [\[Pytorch\]](https://github.com/MandyMo/pytorch_HMR)
+
 ##### MVC 
 **Learning Monocular 3D Human Pose Estimation From Multi-View Images**
 
@@ -138,7 +173,16 @@ _Diogo C. Luvizon, David Picard, Hedi Tabia_
 _Hao-Shu Fang, Yuanlu Xu, Wenguan Wang, Xiaobai Liu, Song-Chun Zhu_
 [\[conf\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471)
 
+### 2017 ICCV
+comming soon...
+
 ### 2017 CVPR
+
+##### UP
+**Unite the People: Closing the Loop Between 3D and 2D Human Representations**
+
+_Christoph Lassner, Javier Romero, Martin Kiefel, Federica Bogo, Michael J. Black, Peter V. Gehler_
+[\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Lassner_Unite_the_People_CVPR_2017_paper.html) [\[code\]](http://up.is.tuebingen.mpg.de/)
 
 ##### RPSM
 **Recurrent 3D Pose Sequence Machines**  
@@ -155,15 +199,19 @@ _Georgios Pavlakos, Xiaowei Zhou, Konstantinos G. Derpanis, Kostas Daniilidis_
 _Denis Tome, Chris Russell, Lourdes Agapito_
 [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Tome_Lifting_From_the_CVPR_2017_paper.html) [\[code\]](https://github.com/DenisTome/Lifting-from-the-Deep-release)
 
-### 2017 ECCV
-comming soon...
+### 2016 ECCV
+
+###### SMPLify
+**Keep it SMPL: Automatic Estimation of {3D} Human Pose and Shape from a Single Image**  
+_Bogo Federica, Kanazawa  Angjoo, Lassner Christoph, Gehler Peter, Romero Javier, Black Michael J._
+[\[Paper\]](http://files.is.tue.mpg.de/black/papers/BogoECCV2016.pdf) [\[code\]](http://smplify.is.tue.mpg.de/)
 
 ### 2016 CVPR
 
 ###### SMD
 **Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video**  
 _Xiaowei Zhou, Menglong Zhu, Spyridon Leonardos, Kosta Derpanis, Kostas Daniilidis_
-[\[arxiv\]](https://arxiv.org/abs/1511.09439) [\[code\]](https://github.com/chuxiaoselena/SparsenessMeetsDeepness)
+[\[conf\]](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhou_Sparseness_Meets_Deepness_CVPR_2016_paper.html) [\[code\]](https://github.com/chuxiaoselena/SparsenessMeetsDeepness)
 
 [\[Back to top\]](#Contents)
 
