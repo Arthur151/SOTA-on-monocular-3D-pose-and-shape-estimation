@@ -55,7 +55,7 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 | Datasets |   -    | Human3.6M | Human3.6M | HumanEva-I | 3DPW | - |
 | Methods | Publication | MPJPE(H36M) | PA-MPJPE(H36M) | MPJPE(HumanEva-I) | PA-MPJPE(3DPW) | link |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [3DPB](#3DPB) |  ICCV17 | 62.9 | 47.7 | [\[conf\]](http://openaccess.thecvf.com/content_iccv_2017/html/Martinez_A_Simple_yet_ICCV_2017_paper.html) [\[code\]](https://github.com/una-dinosauria/3d-pose-baseline) |
+| [GCMR](#GCMR) |  CVPR19 | 71.9 | 50.1 | - | - | [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Semantic_Graph_Convolutional_Networks_for_3D_Human_Pose_Regression_CVPR_2019_paper.html) [\[code\]](https://github.com/nkolot/GraphCMR) |
 | [HMR-video](#HMR-video) |  CVPR19 | - | 56.9 | - | 72.6 | [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kanazawa_Learning_3D_Human_Dynamics_From_Video_CVPR_2019_paper.html) [\[code\]](https://github.com/akanazawa/human_dynamics) |
 | [HMR](#HMR) |  CVPR18 | 87.9 | 58.1 | - | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2018/html/Kanazawa_End-to-End_Recovery_of_CVPR_2018_paper.html) [\[code\]](https://github.com/akanazawa/hmr) [\[Pytorch\]](https://github.com/MandyMo/pytorch_HMR) |
 | [UP](#UP) |  CVPR17 | 80.7 | - | 74.5 | - | [\[conf\]](http://openaccess.thecvf.com/content_cvpr_2017/html/Lassner_Unite_the_People_CVPR_2017_paper.html) [\[code\]](http://up.is.tuebingen.mpg.de/) |
@@ -94,10 +94,16 @@ Yu Cheng, Bo Yang, Bo Wang, Wending Yan, Robby T. Tan
 ##### 3DMPPE
 **Camera Distance-Aware Top-Down Approach for 3D Multi-Person Pose Estimation From a Single RGB Image**
 
-Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee
+_Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee_
 [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Moon_Camera_Distance-Aware_Top-Down_Approach_for_3D_Multi-Person_Pose_Estimation_From_ICCV_2019_paper.html) [\[code\]](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)
 
 ### 2019 CVPR
+
+##### GCMR
+**Semantic Graph Convolutional Networks for 3D Human Pose Regression**
+
+_Long Zhao, Xi Peng, Yu Tian, Mubbasir Kapadia, Dimitris N. Metaxas_
+[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Semantic_Graph_Convolutional_Networks_for_3D_Human_Pose_Regression_CVPR_2019_paper.html) [\[code\]](https://github.com/nkolot/GraphCMR)
 
 ##### HMR-video
 **Learning 3D Human Dynamics From Video**
