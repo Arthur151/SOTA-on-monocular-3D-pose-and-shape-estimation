@@ -63,13 +63,13 @@ comming soon...
 ### 2019 ICCV
 
 ##### OANet
-Occlusion-Aware Networks for 3D Human Pose Estimation in Video
+**Occlusion-Aware Networks for 3D Human Pose Estimation in Video**
 
 Yu Cheng, Bo Yang, Bo Wang, Wending Yan, Robby T. Tan
 [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Cheng_Occlusion-Aware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.html)
 
 ##### 3DMPPE
-Camera Distance-Aware Top-Down Approach for 3D Multi-Person Pose Estimation From a Single RGB Image
+**Camera Distance-Aware Top-Down Approach for 3D Multi-Person Pose Estimation From a Single RGB Image**
 
 Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee
 [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Moon_Camera_Distance-Aware_Top-Down_Approach_for_3D_Multi-Person_Pose_Estimation_From_ICCV_2019_paper.html) [\[code\]](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)
