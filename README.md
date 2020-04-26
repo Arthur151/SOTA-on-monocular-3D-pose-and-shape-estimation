@@ -80,6 +80,10 @@ _Hiroharu Kato, Yoshitaka Ushiku, Tatsuya Harada_
 ## Method Zoo
 
 ## arXiv Papers
+##### [2003.10350](https://arxiv.org/abs/2003.10350) Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows  
+_Andrei Zanfir, Eduard Gabriel Bazavan, Hongyi Xu, Bill Freeman, Rahul Sukthankar, Cristian Sminchisescu_
+
+
 
 ## Conference Papers
 
@@ -87,6 +91,8 @@ _Hiroharu Kato, Yoshitaka Ushiku, Tatsuya Harada_
 comming soon...
 
 ### 2020 CVPR
+
+
 
 ##### VIBE
 **VIBE: Video Inference for Human Body Pose and Shape Estimation**
