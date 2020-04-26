@@ -92,9 +92,21 @@ _Henry M. Clever, Zackory Erickson, Ariel Kapusta, Greg Turk, C. Karen Liu, Char
 ##### [\[2004.02186\]](https://arxiv.org/abs/2004.02186) Lightweight Multi-View 3D Pose Estimation through Camera-Disentangled Representation  
 _Edoardo Remelli, Shangchen Han, Sina Honari, Pascal Fua, Robert Wang_
 
-##### [\[2004.02186\]](https://arxiv.org/abs/2004.02186) Lightweight Multi-View 3D Pose Estimation through Camera-Disentangled Representation  
-_Edoardo Remelli, Shangchen Han, Sina Honari, Pascal Fua, Robert Wang_
+##### [\[2004.03143\]](https://arxiv.org/abs/2004.03143) Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation  
+_Zhe Wang, Daeyun Shin, Charless C. Fowlkes_
 
+##### [\[2004.03989\]](https://arxiv.org/abs/2004.03989) Multi-Person Absolute 3D Human Pose Estimation with Weak Depth Supervision  
+_Marton Veges, Andras Lorincz_  
+[\[Code\]](https://github.com/fabbrimatteo/LoCO)
+
+##### [\[2004.05275\]](https://arxiv.org/abs/2004.05275) Multi-View Matching (MVM): Facilitating Multi-Person 3D Pose Estimation Learning with Action-Frozen People Video  
+_Yeji Shen, C.-C. Jay Kuo_  
+
+##### [\[2004.05815\]](https://arxiv.org/abs/2004.05815) MulayCap: Multi-layer Human Performance Capture Using A Monocular Video Camera  
+_Zhaoqi Su, Weilin Wan, Tao Yu, Lingjie Liu, Lu Fang, Wenping Wang, Yebin Liu_
+
+##### [\[2004.03686\]](https://arxiv.org/abs/2004.03686) Exemplar Fine-Tuning for 3D Human Pose Fitting Towards In-the-Wild 3D Human Pose Estimation    
+_Hanbyul Joo, Natalia Neverova, Andrea Vedaldi_
 
 ## Conference Papers
 
@@ -113,7 +125,12 @@ _Muhammed Kocabas, Nikos Athanasiou, Michael J. Black_
 ##### LoCO
 **Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation**  
 _Matteo Fabbri, Fabio Lanzi, Simone Calderara, Stefano Alletto, Rita Cucchiara_  
-[\[arxiv\]](https://arxiv.org/abs/2004.00329) [\[Pytorch code\]](https://github.com/fabbrimatteo/LoCO)
+[\[arxiv\]](https://arxiv.org/abs/2004.00329) [\[Code\]](https://github.com/fabbrimatteo/LoCO)
+
+##### Pgp
+**Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis**  
+_Jogendra Nath Kundu, Siddharth Seth, Varun Jampani, Mugalodi Rakesh, R. Venkatesh Babu, Anirban Chakraborty_  
+[\[arxiv\]](https://arxiv.org/abs/2004.04400) [\[Project\]](https://sites.google.com/view/pgp-human)
 
 ### 2019 ICCV
 
@@ -366,6 +383,11 @@ _Jun Liu, Henghui Ding, Amir Shahroudy, Ling-Yu Duan, Xudong Jiang, Gang Wang, A
 ###### Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images  
 _Heming Zhu and Yu Cao and Hang Jin and Weikai Chen and Dong Du and Zhangye Wang and Shuguang Cui and Xiaoguang Han_  
 [\[arxiv\]](https://arxiv.org/abs/2003.12753) [\[project\]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
+
+###### Towards Generalization of 3D Human Pose Estimation In The Wild
+_Renato Baptista, Alexandre Saint, Kassem Al Ismaeil, Djamila Aouada_  
+[\[arxiv\]](https://arxiv.org/abs/2004.09989) [\[project\]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
+
 
 ## Contribute
 
