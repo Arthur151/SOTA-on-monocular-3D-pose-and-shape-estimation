@@ -80,9 +80,20 @@ _Hiroharu Kato, Yoshitaka Ushiku, Tatsuya Harada_
 ## Method Zoo
 
 ## arXiv Papers
-##### [2003.10350](https://arxiv.org/abs/2003.10350) Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows  
+##### [\[2003.10350\]](https://arxiv.org/abs/2003.10350) Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows  
 _Andrei Zanfir, Eduard Gabriel Bazavan, Hongyi Xu, Bill Freeman, Rahul Sukthankar, Cristian Sminchisescu_
 
+##### [\[2003.10873\]](https://arxiv.org/abs/2003.10873) EllipBody: A Light-weight and Part-based Representation for Human Pose and Shape Recovery  
+_Min Wang, Feng Qiu, Wentao Liu, Chen Qian, Xiaowei Zhou, Lizhuang Ma_
+
+##### [\[2004.01166\]](https://arxiv.org/abs/2004.01166) Bodies at Rest: 3D Human Pose and Shape Estimation from a Pressure Image using Synthetic Data  
+_Henry M. Clever, Zackory Erickson, Ariel Kapusta, Greg Turk, C. Karen Liu, Charles C. Kemp_
+
+##### [\[2004.02186\]](https://arxiv.org/abs/2004.02186) Lightweight Multi-View 3D Pose Estimation through Camera-Disentangled Representation  
+_Edoardo Remelli, Shangchen Han, Sina Honari, Pascal Fua, Robert Wang_
+
+##### [\[2004.02186\]](https://arxiv.org/abs/2004.02186) Lightweight Multi-View 3D Pose Estimation through Camera-Disentangled Representation  
+_Edoardo Remelli, Shangchen Han, Sina Honari, Pascal Fua, Robert Wang_
 
 
 ## Conference Papers
@@ -92,14 +103,17 @@ comming soon...
 
 ### 2020 CVPR
 
-
-
 ##### VIBE
 **VIBE: Video Inference for Human Body Pose and Shape Estimation**
 
 _Muhammed Kocabas, Nikos Athanasiou, Michael J. Black_
 
 [\[arxiv\]](https://arxiv.org/abs/1912.05656) [\[Pytorch code\]](https://github.com/mkocabas/VIBE)
+
+##### LoCO
+**Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation**  
+_Matteo Fabbri, Fabio Lanzi, Simone Calderara, Stefano Alletto, Rita Cucchiara_  
+[\[arxiv\]](https://arxiv.org/abs/2004.00329) [\[Pytorch code\]](https://github.com/fabbrimatteo/LoCO)
 
 ### 2019 ICCV
 
@@ -346,6 +360,12 @@ _Xiaowei Zhou, Menglong Zhu, Spyridon Leonardos, Kosta Derpanis, Kostas Daniilid
 _Jun Liu, Henghui Ding, Amir Shahroudy, Ling-Yu Duan, Xudong Jiang, Gang Wang, Alex C. Kot_
 
 [\[arxiv\]](https://arxiv.org/abs/1901.04877)
+
+## Datasets
+
+###### Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images  
+_Heming Zhu and Yu Cao and Hang Jin and Weikai Chen and Dong Du and Zhangye Wang and Shuguang Cui and Xiaoguang Han_  
+[\[arxiv\]](https://arxiv.org/abs/2003.12753) [\[project\]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
 
 ## Contribute
 
