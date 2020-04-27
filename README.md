@@ -8,7 +8,7 @@ Feel free to [contribute](#Contribute)!
  - [Benchmark Leaderboard](#Benchmark-Leaderboard)
  - [arXiv Papers](#arXiv-Papers)
  - [Conference Papers](#conference-papers)
-   - 2020: [CVPR](#2020-CVPR), [ECCV](#2020-ECCV)
+   - 2020: [CVPR](#2020-CVPR), [ECCV](#2020-ECCV), [Others](#2020-Others)
    - 2019: [CVPR](#2019-CVPR), [ICCV](#2019-ICCV)
    - 2018: [CVPR](#2018-CVPR), [ECCV](#2018-ECCV), [Others](#2018-Others)
    - 2017: [CVPR](#2017-CVPR), [ICCV](#2017-ICCV)
@@ -131,6 +131,12 @@ _Matteo Fabbri, Fabio Lanzi, Simone Calderara, Stefano Alletto, Rita Cucchiara_
 **Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis**  
 _Jogendra Nath Kundu, Siddharth Seth, Varun Jampani, Mugalodi Rakesh, R. Venkatesh Babu, Anirban Chakraborty_  
 [\[arxiv\]](https://arxiv.org/abs/2004.04400) [\[Project\]](https://sites.google.com/view/pgp-human)
+
+### 2020-Others
+
+##### AAAI2020 - 3D Human Pose Estimation using Spatio-Temporal Networks with Explicit Occlusion Training  
+_Yu Cheng, Bo Yang, Bo Wang, Robby T. Tan_ [\[arxiv\]](https://arxiv.org/abs/2004.11822)
+
 
 ### 2019 ICCV
 
