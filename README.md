@@ -328,6 +328,11 @@ _Hao-Shu Fang, Yuanlu Xu, Wenguan Wang, Xiaobai Liu, Song-Chun Zhu_
 
 [\[conf\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471)
 
+##### OriNet-BMVC18
+**OriNet: A Fully Convolutional Network for 3D Human Pose Estimation**  
+_Chenxu Luo, Xiao Chu, Alan Yuille_  
+[\[arxiv\]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471) [\[code\]](https://github.com/chenxuluo/OriNet-demo)
+
 ### 2017 ICCV
 comming soon...
 
