@@ -397,7 +397,7 @@ _Heming Zhu and Yu Cao and Hang Jin and Weikai Chen and Dong Du and Zhangye Wang
 
 ###### Towards Generalization of 3D Human Pose Estimation In The Wild
 _Renato Baptista, Alexandre Saint, Kassem Al Ismaeil, Djamila Aouada_  
-[\[arxiv\]](https://arxiv.org/abs/2004.09989) [\[project\]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
+[\[arxiv\]](https://arxiv.org/abs/2004.09989)
 
 ##### Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World  
 _Matteo Fabbri, Fabio Lanzi, Simone Calderara, Andrea Palazzi, Roberto Vezzani, Rita Cucchiara_  
