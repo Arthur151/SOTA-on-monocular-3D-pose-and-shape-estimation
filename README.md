@@ -25,7 +25,7 @@ See [``evaluation_matrix.py``](evaluation_matrix.py) in Numpy / Pytorch to get m
 
 ### Comparisons on Human3.6M.
 
-See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human3.6M
+See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
 
 #### State-of-the-art 3D pose estimation methods
 
@@ -52,7 +52,7 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 
 #### State-of-the-art 3D mesh recovery methods
 
-See [``datasets/3DPW``](datasets/3DPW.md) to get more details on 3DPW
+See [``datasets/3DPW``](datasets/3DPW.md) to get more details on [3DPW](https://virtualhumans.mpi-inf.mpg.de/3DPW/)
 
 Evaluation Datasets of MPJPE: Human3.6M | Human3.6M | HumanEva-I | 3DPW 
 | Methods | Publication | MPJPE | PA-MPJPE | MPJPE | PA-MPJPE | link |
