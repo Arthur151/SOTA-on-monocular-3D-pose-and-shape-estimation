@@ -52,6 +52,8 @@ See [``datasets/Human3.6M``](datasets/Human3.6M.md) to get more details on Human
 
 #### State-of-the-art 3D mesh recovery methods
 
+See [``datasets/3DPW``](datasets/3DPW.md) to get more details on 3DPW
+
 Evaluation Datasets of MPJPE: Human3.6M | Human3.6M | HumanEva-I | 3DPW 
 | Methods | Publication | MPJPE | PA-MPJPE | MPJPE | PA-MPJPE | link |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
