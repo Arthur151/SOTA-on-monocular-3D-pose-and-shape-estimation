@@ -21,7 +21,7 @@ Feel free to [contribute](#Contribute)!
 
 ### Evaluation Matrix
 
-See [``evaluation_matrix.py``](evaluation_matrix.py) in Numpy / Pytorch to get more details on evaluation matrix for 3D pose estimation / mesh recovery. In general, MPJPE and PA-MPJPE are 3D joint errors, which are the lower, the better.
+See [``evaluation_matrix.py``](evaluation_matrix.py) in Numpy / Pytorch to get more details on evaluation matrix for 3D pose estimation / mesh recovery. In general, MPJPE and PA-MPJPE are mean 3D joint errors. The lower, the better.
 
 ### Comparisons on Human3.6M.
 
