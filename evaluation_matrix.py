@@ -160,12 +160,11 @@ def mean_velocity_error(predicted, target):
     return np.mean(np.linalg.norm(velocity_predicted - velocity_target, axis=len(target.shape)-1))
 
 def test():
-    for i in range(100):
-        r1 = np.random.rand(3,14,3)
-        r2 = np.random.rand(3,14,3)
-        pmpjpe = p_mpjpe(r1, r2,with_sRt=False)
-        pmpjpe_torch = p_mpjpe_torch(torch.from_numpy(r1), torch.from_numpy(r2),with_sRt=False,full_torch=True)
-        print('pmpjpe: {}; {:.6f}; {:.6f}; {:.6f}'.format(pmpjpe==pmpjpe_torch.numpy(),pmpjpe,pmpjpe_torch.numpy(), pmpjpe-pmpjpe_torch.numpy()))
+    r1 = np.random.rand(3,14,3)
+    r2 = np.random.rand(3,14,3)
+    pmpjpe = p_mpjpe(r1, r2,with_sRt=False)
+    pmpjpe_torch = p_mpjpe_torch(torch.from_numpy(r1), torch.from_numpy(r2),with_sRt=False,full_torch=True)
+    print('pmpjpe: {}; {:.6f}; {:.6f}; {:.6f}'.format(np.abs(pmpjpe-pmpjpe_torch.numpy())<0.01,pmpjpe,pmpjpe_torch.numpy(), pmpjpe-pmpjpe_torch.numpy()))
 
 if __name__ == '__main__':
     test()
