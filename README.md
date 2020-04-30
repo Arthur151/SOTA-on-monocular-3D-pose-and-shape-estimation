@@ -82,6 +82,11 @@ _Hiroharu Kato, Yoshitaka Ushiku, Tatsuya Harada_
 ## Method Zoo
 
 ## arXiv Papers
+
+##### [\[2004.13985\]](https://arxiv.org/abs/2004.13985) Motion Guided 3D Pose Estimation from Videos  
+_Jingbo Wang, Sijie Yan, Yuanjun Xiong, Dahua Lin_
+
+
 ##### [\[2003.10350\]](https://arxiv.org/abs/2003.10350) Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows  
 _Andrei Zanfir, Eduard Gabriel Bazavan, Hongyi Xu, Bill Freeman, Rahul Sukthankar, Cristian Sminchisescu_
 
