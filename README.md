@@ -398,15 +398,23 @@ _Jun Liu, Henghui Ding, Amir Shahroudy, Ling-Yu Duan, Xudong Jiang, Gang Wang, A
 
 ## Datasets
 
-###### Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images  
+###### Deep Fashion3D
+Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images  
 _Heming Zhu and Yu Cao and Hang Jin and Weikai Chen and Dong Du and Zhangye Wang and Shuguang Cui and Xiaoguang Han_  
 [\[arxiv\]](https://arxiv.org/abs/2003.12753) [\[project\]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
 
-###### Towards Generalization of 3D Human Pose Estimation In The Wild
+###### 3DBodyTex.Pose
+Towards Generalization of 3D Human Pose Estimation In The Wild  
 _Renato Baptista, Alexandre Saint, Kassem Al Ismaeil, Djamila Aouada_  
 [\[arxiv\]](https://arxiv.org/abs/2004.09989)
 
-##### Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World  
+###### GPA
+Geometric Pose Affordance: 3D Human Pose with Scene Constraints  
+_Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes_
+[\[arxiv\]](https://arxiv.org/abs/1905.07718) [\[project\]](http://wangzheallen.github.io/GPA)
+
+##### JTA
+Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World    
 _Matteo Fabbri, Fabio Lanzi, Simone Calderara, Andrea Palazzi, Roberto Vezzani, Rita Cucchiara_  
 [\[arxiv\]](https://arxiv.org/abs/1803.08319) [\[project\]](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25)
 
