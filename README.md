@@ -122,16 +122,29 @@ comming soon...
 
 ### 2020 CVPR
 
+##### Object-Occluded Human Shape and Pose Estimation from a Single Color Image
+_Tianshu Zhang, Buzhen Huang and Yangang Wang_  
+[\[pdf\]](https://www.yangangwang.com/papers/ZHANG-OOH-2020-03.pdf)
+
 ##### Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild
 _Umar Iqbal, Pavlo Molchanov, Jan Kautz_  
 [\[arxiv\]](https://arxiv.org/abs/2003.07581)
 
+##### Attention Mechanism Exploits Temporal Contexts: Real-time 3D Human Pose Reconstruction
+_Ruixu Liu1, Ju Shen1, He Wang1, Chen Chen2, Sen-ching Cheung3, Vijayan Asari1_   
+[\[pdf\]](https://webpages.uncc.edu/cchen62/3D-pose.pdf)
+
+##### Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation
+_Rahul Mitra, Nitesh B. Gundavarapu, Abhishek Sharma, Arjun Jain_  
+[\[arxiv\]](https://arxiv.org/abs/1908.05293)
+
 ##### VIBE
-**VIBE: Video Inference for Human Body Pose and Shape Estimation**
-
-_Muhammed Kocabas, Nikos Athanasiou, Michael J. Black_
-
+**VIBE: Video Inference for Human Body Pose and Shape Estimation**  
+_Muhammed Kocabas, Nikos Athanasiou, Michael J. Black_  
 [\[arxiv\]](https://arxiv.org/abs/1912.05656) [\[Pytorch code\]](https://github.com/mkocabas/VIBE)
+
+
+
 
 ##### LoCO
 **Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation**  
