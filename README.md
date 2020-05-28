@@ -122,6 +122,10 @@ comming soon...
 
 ### 2020 CVPR
 
+##### Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild
+_Umar Iqbal, Pavlo Molchanov, Jan Kautz_  
+[\[arxiv\]](https://arxiv.org/abs/2003.07581)
+
 ##### VIBE
 **VIBE: Video Inference for Human Body Pose and Shape Estimation**
 
