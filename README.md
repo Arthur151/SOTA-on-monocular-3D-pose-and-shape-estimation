@@ -122,6 +122,10 @@ comming soon...
 
 ### 2020 CVPR
 
+##### 3D Human Mesh Regression With Dense Correspondence
+_Wang Zeng, Wanli Ouyang, Ping Luo, Wentao Liu, Xiaogang Wang_  
+[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zeng_3D_Human_Mesh_Regression_With_Dense_Correspondence_CVPR_2020_paper.html)
+
 ##### Object-Occluded Human Shape and Pose Estimation from a Single Color Image
 _Tianshu Zhang, Buzhen Huang and Yangang Wang_  
 [\[pdf\]](https://www.yangangwang.com/papers/ZHANG-OOH-2020-03.pdf)
@@ -143,7 +147,10 @@ _Rahul Mitra, Nitesh B. Gundavarapu, Abhishek Sharma, Arjun Jain_
 _Muhammed Kocabas, Nikos Athanasiou, Michael J. Black_  
 [\[arxiv\]](https://arxiv.org/abs/1912.05656) [\[Pytorch code\]](https://github.com/mkocabas/VIBE)
 
-
+##### Multiperson
+**Coherent Reconstruction of Multiple Humans From a Single Image***  
+_Wen Jiang, Nikos Kolotouros, Georgios Pavlakos, Xiaowei Zhou, Kostas Daniilidis_  
+[\[conf\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_Coherent_Reconstruction_of_Multiple_Humans_From_a_Single_Image_CVPR_2020_paper.html)
 
 
 ##### LoCO
