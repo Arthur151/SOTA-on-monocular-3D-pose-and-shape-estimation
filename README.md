@@ -122,6 +122,10 @@ comming soon...
 
 ### 2020 CVPR
 
+##### Cascaded Deep Monocular 3D Human Pose Estimation With Evolutionary Training Data
+_Shichao Li, Lei Ke, Kevin Pratama, Yu-Wing Tai, Chi-Keung Tang, Kwang-Ting Cheng_  
+[\[conf\]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Cascaded_Deep_Monocular_3D_Human_Pose_Estimation_With_Evolutionary_Training_CVPR_2020_paper.html) [\[Pytorch code\]](https://github.com/Nicholasli1995/EvoSkeleton)
+
 ##### 3D Human Mesh Regression With Dense Correspondence
 _Wang Zeng, Wanli Ouyang, Ping Luo, Wentao Liu, Xiaogang Wang_  
 [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zeng_3D_Human_Mesh_Regression_With_Dense_Correspondence_CVPR_2020_paper.html)
