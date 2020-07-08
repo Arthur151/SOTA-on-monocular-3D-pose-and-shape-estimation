@@ -123,12 +123,12 @@ comming soon...
 ### 2020 CVPR
 
 ##### ETD 
-Cascaded Deep Monocular 3D Human Pose Estimation With Evolutionary Training Data  
+**Cascaded Deep Monocular 3D Human Pose Estimation With Evolutionary Training Data**  
 _Shichao Li, Lei Ke, Kevin Pratama, Yu-Wing Tai, Chi-Keung Tang, Kwang-Ting Cheng_  
 [\[conf\]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Cascaded_Deep_Monocular_3D_Human_Pose_Estimation_With_Evolutionary_Training_CVPR_2020_paper.html) [\[Pytorch code\]](https://github.com/Nicholasli1995/EvoSkeleton)
 
 ##### DKA
-Deep Kinematics Analysis for Monocular 3D Human Pose Estimation  
+**Deep Kinematics Analysis for Monocular 3D Human Pose Estimation**  
 _Jingwei Xu, Zhenbo Yu, Bingbing Ni, Jiancheng Yang, Xiaokang Yang, Wenjun Zhang_  
 [\[conf\]](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Deep_Kinematics_Analysis_for_Monocular_3D_Human_Pose_Estimation_CVPR_2020_paper.html)
 
@@ -162,6 +162,15 @@ _Muhammed Kocabas, Nikos Athanasiou, Michael J. Black_
 _Wen Jiang, Nikos Kolotouros, Georgios Pavlakos, Xiaowei Zhou, Kostas Daniilidis_  
 [\[conf\]](http://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_Coherent_Reconstruction_of_Multiple_Humans_From_a_Single_Image_CVPR_2020_paper.html)
 
+##### ActiveMoCap
+**ActiveMoCap: Optimized Viewpoint Selection for Active Human Motion Capture**  
+_Sena Kiciroglu, Helge Rhodin, Sudipta N. Sinha, Mathieu Salzmann, Pascal Fua_  
+[\[conf\]](https://openaccess.thecvf.com/content_CVPR_2020/html/Kiciroglu_ActiveMoCap_Optimized_Viewpoint_Selection_for_Active_Human_Motion_Capture_CVPR_2020_paper.html)
+
+##### PandaNet
+**PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation**  
+_Abdallah Benzine, Florian Chabot, Bertrand Luvison, Quoc Cuong Pham, Catherine Achard_  
+[\[conf\]](https://openaccess.thecvf.com/content_CVPR_2020/html/Benzine_PandaNet_Anchor-Based_Single-Shot_Multi-Person_3D_Pose_Estimation_CVPR_2020_paper.html)
 
 ##### LoCO
 **Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation**  
