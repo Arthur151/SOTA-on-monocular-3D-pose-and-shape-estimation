@@ -150,7 +150,7 @@ _Ruixu Liu1, Ju Shen1, He Wang1, Chen Chen2, Sen-ching Cheung3, Vijayan Asari1_
 
 ##### Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation
 _Rahul Mitra, Nitesh B. Gundavarapu, Abhishek Sharma, Arjun Jain_  
-[\[arxiv\]](https://arxiv.org/abs/1908.05293)
+[\[conf\]](https://openaccess.thecvf.com/content_CVPR_2020/html/Mitra_Multiview-Consistent_Semi-Supervised_Learning_for_3D_Human_Pose_Estimation_CVPR_2020_paper.html)
 
 ##### VIBE
 **VIBE: Video Inference for Human Body Pose and Shape Estimation**  
