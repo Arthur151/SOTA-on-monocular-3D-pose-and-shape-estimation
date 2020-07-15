@@ -118,7 +118,10 @@ _Hanbyul Joo, Natalia Neverova, Andrea Vedaldi_
 ## Conference Papers
 
 ### 2020 ECCV
-comming soon...
+
+##### Unsupervised Human 3D Pose Representation with Viewpoint and Pose Disentanglement
+_Qiang Nie, Ziwei Liu, Yunhui Liu_  
+[\[arxiv\]](https://arxiv.org/abs/2007.07053)
 
 ### 2020 CVPR
 
