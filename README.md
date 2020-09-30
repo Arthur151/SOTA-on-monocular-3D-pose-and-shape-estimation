@@ -83,9 +83,11 @@ _Hiroharu Kato, Yoshitaka Ushiku, Tatsuya Harada_
 
 ## arXiv Papers
 
+##### [\[2008.12272\]](https://arxiv.org/abs/2008.12272) CenterHMR: a Bottom-up Single-shot Method for Multi-person 3D Mesh Recovery from a Single Image  
+_Yu Sun, Qian Bao, Wu Liu, Yili Fu, Tao Mei_
+
 ##### [\[2004.13985\]](https://arxiv.org/abs/2004.13985) Motion Guided 3D Pose Estimation from Videos  
 _Jingbo Wang, Sijie Yan, Yuanjun Xiong, Dahua Lin_
-
 
 ##### [\[2003.10350\]](https://arxiv.org/abs/2003.10350) Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows  
 _Andrei Zanfir, Eduard Gabriel Bazavan, Hongyi Xu, Bill Freeman, Rahul Sukthankar, Cristian Sminchisescu_
@@ -118,6 +120,17 @@ _Hanbyul Joo, Natalia Neverova, Andrea Vedaldi_
 ## Conference Papers
 
 ### 2020 ECCV
+
+
+
+##### Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose
+_Hongsuk Choi, Gyeongsik Moon, and Kyoung Mu Lee_  
+[\[arxiv\]](https://arxiv.org/abs/2008.09047)
+
+
+##### Full-Body Awareness from Partial Observations  
+_Chris Rockwell and David F. Fouhey_  
+[\[paper\]](https://crockwell.github.io/partial_humans/data/2820.pdf)
 
 ##### Unsupervised Human 3D Pose Representation with Viewpoint and Pose Disentanglement
 _Qiang Nie, Ziwei Liu, Yunhui Liu_  
