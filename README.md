@@ -57,6 +57,7 @@ See [``datasets/3DPW``](datasets/3DPW.md) to get more details on [3DPW](https://
 Evaluation Datasets of MPJPE: Human3.6M | Human3.6M | HumanEva-I | 3DPW 
 | Methods | Publication | MPJPE | PA-MPJPE | MPJPE | PA-MPJPE | link |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| [ROMP](#ROMP) |  ICCV21 | - | - | - | 47.3 | [\[arxiv\]](https://arxiv.org/abs/2008.12272) [\[code\]](https://github.com/Arthur151/ROMP) |
 | [VIBE](#VIBE) |  CVPR20 | 65.6 | 41.4 | - | 51.9 | [\[arxiv\]](https://arxiv.org/abs/1912.05656) [\[code\]](https://github.com/mkocabas/VIBE) |
 | [DSD-SATN](#DSD-SATN) |  ICCV19 | 59.1 | 42.4 | - | 69.5 | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_Human_Mesh_Recovery_From_Monocular_Images_via_a_Skeleton-Disentangled_Representation_ICCV_2019_paper.html) [\[code\]](https://github.com/JDAI-CV/DSD-SATN) |
 | [SPIN](#SPIN) |  ICCV19 | - | 41.1 | - | 59.2 | [\[conf\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kolotouros_Learning_to_Reconstruct_3D_Human_Pose_and_Shape_via_Model-Fitting_ICCV_2019_paper.html) [\[code\]](https://github.com/nkolot/SPIN) |
@@ -119,9 +120,14 @@ _Hanbyul Joo, Natalia Neverova, Andrea Vedaldi_
 
 ## Conference Papers
 
+### 2021 ICCV
+
+##### ROMP
+**Monocular, One-stage, Regression of Multiple 3D People**  
+_Yu Sun, Qian Bao, Wu Liu, Yili Fu, Michael J. Black, Tao Mei_  
+[\[arxiv\]](https://arxiv.org/abs/2008.12272) [\[Pytorch code\]](https://github.com/Arthur151/ROMP)
+
 ### 2020 ECCV
-
-
 
 ##### Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose
 _Hongsuk Choi, Gyeongsik Moon, and Kyoung Mu Lee_  
